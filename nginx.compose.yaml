@@ -1,0 +1,9 @@
+services:
+  nginx:
+    image: nginx
+    ports:
+      - 8181:80
+    profiles:
+      - dev
+    networks:
+      - kube_news_net
