@@ -30,7 +30,7 @@ Content-Type: application/json
       "description": "Descubra a importância do monitoramento de aplicações e infraestrutura na nuvem e como isso pode melhorar o desempenho e a confiabilidade."
     },
     {
-      "title": "Containers vs. VMs",
+      "title": "Containers vs VMs",
       "resumo": "Comparando tecnologias de virtualização.",
       "description": "Explore as diferenças entre contêineres e máquinas virtuais (VMs) e quando usar cada uma para otimizar sua infraestrutura."
     },
